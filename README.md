@@ -8,6 +8,8 @@ While working on the project, I used Excel for initial data analysis, Python for
 
 The main idea was not just to create charts, but to understand the patterns in the data and turn them into insights that could be useful for a business.
 
+One of my findings was that the Basic subscription plan had a higher churn rate (24.83%) compared with the Standard plan (19.42%).
+
 ## What I Wanted to Understand
 
 I explored a few questions throughout the project:
